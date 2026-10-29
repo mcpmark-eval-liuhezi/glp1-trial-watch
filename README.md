@@ -10,7 +10,7 @@ Durable tracking home for our endocrinology group's **quarterly pipeline review*
 
 ## How the trials were selected
 
-1. Searched ClinicalTrials.gov for **currently recruiting** studies of **GLP-1 receptor agonists** in **adults with type 2 diabetes** (26 studies returned).
+1. Searched ClinicalTrials.gov for **currently recruiting** studies of **GLP-1 receptor agonists** in **adults with type 2 diabetes** (28 studies returned).
 2. Filtered to **Phase 3** studies.
 3. Took the **three largest by planned enrollment** — all three Phase 3 studies in the result set qualified.
 
@@ -26,6 +26,7 @@ Durable tracking home for our endocrinology group's **quarterly pipeline review*
 
 - **Issue #1** — parent summary issue for this quarter's review, with the phase and sponsor-class breakdowns posted as a comment, and each trial linked as a sub-issue.
 - **Issues #2–#4** — individual tracking issues (one per selected trial, NCT ID in the title).
+- **Comments on Issue #1** — the phase and sponsor-class breakdowns of the recruiting search (see the "Aggregate landscape breakdowns" comment).
 
 ## Maintenance
 
